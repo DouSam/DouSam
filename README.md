@@ -24,7 +24,7 @@ Currently I work in a company using MVC architecture with .Net Core and some Rea
 <h2 align="center">Technologies I use <img src="https://github.com/DouSam/DouSam/blob/main/giphy.gif" width="90"></h2>
 
 <p align="center">
-
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="60">
 </p>
 
 <h2 align="center">Contact me on <img src="https://github.com/DouSam/DouSam/blob/main/wecan.gif" width="90"></h2>
