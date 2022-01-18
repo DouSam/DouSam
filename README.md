@@ -38,6 +38,13 @@ Currently I work in a company using MVC architecture with .Net Core and some Rea
  <img src="https://github.com/get-icon/geticon/blob/master/icons/github.svg" width="60">
  <img src="https://github.com/get-icon/geticon/blob/master/icons/nginx-icon.svg" width="60">
  <img src="https://github.com/get-icon/geticon/blob/master/icons/nodemon.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/oracle.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/pm2.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/socket.io.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" width="60">
 </p>
 
 
