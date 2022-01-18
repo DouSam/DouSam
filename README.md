@@ -23,9 +23,23 @@ Currently I work in a company using MVC architecture with .Net Core and some Rea
 
 <h2 align="center">Technologies I use <img src="https://github.com/DouSam/DouSam/blob/main/giphy.gif" width="90"></h2>
 
-<p align="center">
+<p align="center" >
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs.svg" width="60" >
  <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" width="70">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" width="40">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/bootstrap.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/dotnet.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/github.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/nginx-icon.svg" width="60">
+ <img src="https://github.com/get-icon/geticon/blob/master/icons/nodemon.svg" width="60">
 </p>
+
 
 <h2 align="center">Contact me on <img src="https://github.com/DouSam/DouSam/blob/main/wecan.gif" width="90"></h2>
 
@@ -40,7 +54,7 @@ Currently I work in a company using MVC architecture with .Net Core and some Rea
 </p>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50" background-color="white">
 </h2>
 <p align="center">
   <img src="https://github.com/DouSam/DouSam/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
