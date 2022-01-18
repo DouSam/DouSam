@@ -1,12 +1,24 @@
-<p align="center">
- 
-</p align="center">
 <img src="https://github.com/DouSam/DouSam/blob/main/head.png" />
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=dousam&color=green"/> 
  <img src="https://badges.pufler.dev/repos/dousam"/>
  <img src="https://badges.pufler.dev/commits/monthly/dousam" />
+</p>
+
+- 🔭 I’m currently working on LUNAH project(thats my degree conclusion work) but, i am open for another projects.
+- 🌱 I’m currently learning React, C# and graduating in Systems Analysis and Development(Dec/2022)
+- 👯 I’m looking to collaborate on any open project related with health care.
+- ⚡ Fun fact: I have wanted to develop jarvis since I was 13, some day i will reach my dream.
+
+<h2 align="center">
+  About me!
+</h2>
+
+<p align = "justify">
+I am a Systems Analysis and Development student, passionate about knowledge, I started programming in a Minecraft mod and since then I have been gaining knowledge in several languages. I want to use this knowledge to help people and develop systems in the health area at no cost.
+I use nodejs and mongodb since 2018, I have more than 14 projects using them, all for small businesses in my city.
+Currently I work in a company using MVC architecture with .Net Core and some ReactJS.
 </p>
 
 <h2 align="center">Technologies I use <img src="https://github.com/DouSam/DouSam/blob/main/giphy.gif" width="90"></h2>
