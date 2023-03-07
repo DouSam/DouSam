@@ -6,8 +6,8 @@
  <img src="https://badges.pufler.dev/commits/monthly/dousam" />
 </p>
 
-- 🔭 I’m currently working on LUNAH project(thats my degree conclusion work) but, i am open for another projects.
-- 🌱 I’m currently learning React, C# and graduating in Systems Analysis and Development(Dec/2022)
+- 🔭 I'm currently working on image analysis projects but, i am open for another projects.
+- 🌱 I’m currently learning React, C# and Master's student in Bioengineering(Jun/2025)
 - 👯 I’m looking to collaborate on any open project related with health care.
 - ⚡ Fun fact: I have wanted to develop jarvis since I was 13, some day i will reach my dream.
 
