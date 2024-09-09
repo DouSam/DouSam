@@ -6,10 +6,10 @@
  <img src="https://badges.pufler.dev/commits/monthly/dousam" />
 </p>
 
-- 🔭 I'm currently working on image analysis projects but, i am open for another projects.
-- 🌱 I’m currently learning React, C# and Master's student in Bioengineering(Jun/2025)
-- 👯 I’m looking to collaborate on any open project related with health care.
-- ⚡ Fun fact: I have wanted to develop jarvis since I was 13, some day i will reach my dream.
+- 🔭 I'm currently working on image analysis, machine learning, and artificial inteligence projects but, I am open to other projects! Learning will never be sufficient.
+- 🌱 I’m currently a Master's student in Bioengineering(Jun/2025), my project is to automatically segment tumors in tomography, and also study the entropy in ML models.
+- 👯 I’m looking to collaborate on any open project related to health care.
+- ⚡ Fun fact: I have wanted to develop jarvis since I was 13, someday i will reach my dream.
 
 <h2 align="center">
   About me!
@@ -17,8 +17,8 @@
 
 <p align = "justify">
 I am a Systems Analysis and Development student, passionate about knowledge, I started programming in a Minecraft mod and since then I have been gaining knowledge in several languages. I want to use this knowledge to help people and develop systems in the health area at no cost.
-I use nodejs and mongodb since 2018, I have more than 14 projects using them, all for small businesses in my city.
-Currently I work in a company using MVC architecture with .Net Core and some ReactJS.
+I have used node js and MongoDB since 2018, I have more than 14 projects using them, all for small businesses in my city.
+Currently, I work for a company that uses MVC architecture with .Net Core and some ReactJS.
 </p>
 
 <h2 align="center">Technologies I use <img src="https://github.com/DouSam/DouSam/blob/main/giphy.gif" width="90"></h2>
